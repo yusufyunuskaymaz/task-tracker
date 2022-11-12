@@ -11,8 +11,6 @@
  
 🛠 React Props
 
-🛠 Manipulatation Data
-
 🛠 Axios Library
 
 🛠 3rd Part Libraries 
