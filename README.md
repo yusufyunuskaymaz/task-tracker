@@ -1,20 +1,20 @@
 # Task Tracker Api
-### At the end of the project, i will have covered these topics;
+### I learned these; 
 
-🛠 MockApi 
+✨ MockApi 
 
-🛠 Put, Post, Delete, Get with Axios
+✨ Put, Post, Delete, Get with Axios
 
-🛠 Props and State Logic
+✨ Props and State Logic
 
-🛠 React Hooks 
+✨ React Hooks 
  
-🛠 React Props
+✨ React Props
 
-🛠 Axios Library
+✨ Axios Library
 
-🛠 3rd Part Libraries 
+✨ 3rd Part Libraries 
 
-🛠 Media Query 
+✨ Media Query 
 
-🛠 Deployment with Netlify
+✨ Deployment with Netlify
